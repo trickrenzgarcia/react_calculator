@@ -1,0 +1,11 @@
+.result {
+  height: 60px;
+  background-color: #bbb;
+  width: 100%;
+  text-align: right;
+}
+
+p {
+  padding: 10px;
+  font-size: 30px;
+}
