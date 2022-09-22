@@ -4,11 +4,15 @@
 
 1. Install Node.js and then clone this repository to your local directory
 
+
 2. Navigate to your directory and do
 ### `npm install`
 
+
 3. Start your react application
 ### `npm start`
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
